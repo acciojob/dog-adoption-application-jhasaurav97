@@ -1,2 +1,24 @@
-
 /* Your CSS Code here. */
+form{
+	width: 350px;
+	height: 220px;
+	padding: 30px;
+	background-color: #ccc;
+	border-radius: 5px;
+}
+label{
+	display: block;
+}
+input{
+	margin: 5px;
+	width: 100%;
+}
+#checkbox{
+	width: 5%;
+	margin: 10px;
+}
+select{
+	width: 100%;
+	padding: 4px;
+	margin: 5px;
+}
